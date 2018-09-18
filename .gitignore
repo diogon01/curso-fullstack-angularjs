@@ -10,3 +10,7 @@ tmp
 # The development sqlite file
 database/development.sqlite
 /.idea/
+/bower_components/
+/.tmp/
+/package-lock.json
+/.editorconfig
